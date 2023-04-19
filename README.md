@@ -22,12 +22,12 @@ Users should be able to:
 - See hover and focus states for all interactive elements on the page
 
 ### ScreenShot
- - [](C:\MProjecto\HTMl+CSS\results-summary-component-main\result-compo-sc.jpg.png)
+ - [Screen Shot](C:\MProjecto\HTMl+CSS\results-summary-component-main\result-compo-sc.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Mallikarjun-Karalatti/results-summary-component-main)
-- Live Site URL: [Add live site URL here](https://mallikarjun-karalatti.github.io/results-summary-component-main/)
+- Solution URL: [solution URL here](https://github.com/Mallikarjun-Karalatti/results-summary-component-main)
+- Live Site URL: [live site URL here](https://mallikarjun-karalatti.github.io/results-summary-component-main/)
 
 ### Built with
 - CSS flex
