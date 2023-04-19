@@ -24,7 +24,7 @@ body{
    padding : 35px;
 }
 .section-1 > h3 {
-    font-wieght :700 ;
+    font-weight :700 ;
 }
 .section-1 > h2 {
     color : white;
@@ -84,7 +84,7 @@ body{
 
 .parameter-1 {
     color : hsl(0, 100%, 67%);
-    background-color: hsl(0, 33%, 96%);;
+    background-color: hsl(0, 33%, 96%);
 }
 .parameter-2 {
     color : hsl(39, 100%, 56%);
