@@ -22,7 +22,7 @@ Users should be able to:
 - See hover and focus states for all interactive elements on the page
 
 ### ScreenShot
- - [](C:\Users\mallu\OneDrive\Pictures\Screenshots\result-compo-sc.jpg.png)
+ - [](C:\MProjecto\HTMl+CSS\results-summary-component-main\result-compo-sc.jpg.png)
 
 ### Links
 
