@@ -55,6 +55,7 @@ body{
     border-top-right-radius: 12px;
     border-bottom-right-radius: 12px;
     padding : 20px;
+    margin : auto auto;
 }
 
 .section-2 > h3 {
