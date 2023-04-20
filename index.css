@@ -76,6 +76,10 @@ body{
     font-size: 15px;
 }
 
+.section-2 > div > p {
+    display: inline;
+}
+
 .parameter-score {
     color : hsl(224, 30%, 27%);
 }
