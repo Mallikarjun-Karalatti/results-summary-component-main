@@ -16,7 +16,7 @@ body{
 
 .section-1{
     color : hsl(241, 100%, 89%);
-   width : 45%;
+   width : 15rem;
    height: 100%;
    text-align: center;
    background-image: linear-gradient(180deg,hsl(252, 100%, 67%),hsl(241, 81%, 54%));
@@ -49,7 +49,7 @@ body{
 }
 
 .section-2{
-    max-width : 55%;
+    max-width : 15rem;
     height: 100%;
     text-align: center;
     border-top-right-radius: 12px;
@@ -67,7 +67,7 @@ body{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    width: 80%;
+    width: 12rem;
     height: 6px;
     padding : 18px 10px;
     border-radius: 10px;
